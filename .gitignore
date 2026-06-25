@@ -1,0 +1,17 @@
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.uf2
+*.exe
+*.out
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
