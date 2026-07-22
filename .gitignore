@@ -24,3 +24,18 @@ node_modules/
 coverage/
 .env.*
 *.egg-info/
+
+# C/C++ build artifacts
+*.swp
+*.swo
+.vscode/
+.idea/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.pdb
+compile_commands.json
+EEPROM_image/
+*.map
